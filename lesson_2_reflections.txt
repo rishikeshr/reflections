@@ -4,3 +4,4 @@ Staging area can be used to make sure we are commiting only the required file as
 Branches help in dealing with new experimental features with your code or creating patch releases.
 Diagrams help in understanding the features and the layout of the code repository and the parents for each new feature.
 Code gets updated.
+Pros : Gets changes automatically, but doesnt handle conflicts. In case of conflicts manual method is better.
