@@ -2,3 +2,4 @@ On initializing a repository, the git metadata directory is created. It primes u
 Staging directory allows us a temporary place to host the content before commiting it to the repository.
 Staging area can be used to make sure we are commiting only the required file as opposed to multiple ifile.
 Branches help in dealing with new experimental features with your code or creating patch releases.
+Diagrams help in understanding the features and the layout of the code repository and the parents for each new feature.
