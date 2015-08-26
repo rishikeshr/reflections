@@ -1,0 +1,5 @@
+ This showed me the exact differences between the two files by filtering out the noise.
+ Having easy access to the entire history of the file allows me to monitor the changes I am making and possibly revert back and forth easily.
+ Git primarily helps with Code repositories and therefore helps to track dependencies across multiple files by allowing commits with multiple files.
+ This will allow me to easily revert back to the exact version which introduced the bug as well as track which other components may have been affected.
+ Create new code with impunity.
