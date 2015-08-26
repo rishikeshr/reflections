@@ -1,0 +1,2 @@
+On initializing a repository, the git metadata directory is created. It primes up the directory for git use.
+Staging directory allows us a temporary place to host the content before commiting it to the repository.
